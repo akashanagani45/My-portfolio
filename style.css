@@ -8,7 +8,7 @@
 
 /* Body Styling */
 body {
-    background-color: #f4f4f4;
+    background-color: pink;
     color: #333;
     text-align: center;
 }
@@ -35,7 +35,7 @@ nav {
 }
 
 .logo {
-    color: rgb(255, 255, 255);
+    color: pink;
     font-size: 1.5rem;
     font-weight: bold;
 }
@@ -72,7 +72,7 @@ nav ul li a:hover {
 /* Home Section */
 #home {
     background: linear-gradient(120deg, #ff9800, #ff5722);
-    color: white;
+    color: blue;
     padding: 120px 20px;
 }
 
@@ -107,7 +107,7 @@ p {
 }
 
 .btn:hover {
-    background: #ff9800;
+    background: green;
 }
 
 /* About & Skills Section */
@@ -129,14 +129,14 @@ h2 {
 }
 
 .progress {
-    background: #ddd;
+    background:green;
     height: 10px;
     border-radius: 5px;
     overflow: hidden;
 }
 
 .progress-bar {
-    background: #ff9800;
+    background: green;
     height:100%;
     transition: width 1s;
 }
