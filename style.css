@@ -8,7 +8,7 @@
 
 /* Body Styling */
 body {
-    background-color: pink;
+    background-color: white;
     color: #333;
     text-align: center;
 }
@@ -97,7 +97,7 @@ p {
 .btn {
     display: inline-block;
     background: #222;
-    color: white;
+    color: green;
     padding: 10px 15px;
     border-radius: 5px;
     text-decoration: none;
