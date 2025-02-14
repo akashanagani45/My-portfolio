@@ -15,7 +15,7 @@ body {
 
 /* Header & Navbar */
 header {
-    background-color: #222;
+    background-color: pink;
     position: fixed;
     width: 100%;
     top: 0;
@@ -51,21 +51,21 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: green;
     text-decoration: none;
     font-size: 16px;
     transition: 0.3s;
 }
 
 nav ul li a:hover {
-    color: #ff9800;
+    color: green;
 }
 
 /* Responsive Navbar - Hamburger Menu */
 .menu-toggle {
     display: none;
     font-size: 25px;
-    color: white;
+    color: green;
     cursor: pointer;
 }
 
