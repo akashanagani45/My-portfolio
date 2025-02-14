@@ -9,7 +9,7 @@
 /* Body Styling */
 body {
     background-color: white;
-    color: #333;
+    color: white;
     text-align: center;
 }
 
@@ -35,7 +35,7 @@ nav {
 }
 
 .logo {
-    color: pink;
+    color: brown;
     font-size: 1.5rem;
     font-weight: bold;
 }
